@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, /home/kobayashi/github/DE1-SoC/wo_ARM/nop/nop.v
+source_file = 1, /home/kobayashi/github/DE1-SoC/wo_ARM/nop/db/nop.cbx.xml
+design_name = nop
+instance = comp, \ULED[0]~output , ULED[0]~output, nop, 1
+instance = comp, \ULED[1]~output , ULED[1]~output, nop, 1
+instance = comp, \ULED[2]~output , ULED[2]~output, nop, 1
+instance = comp, \ULED[3]~output , ULED[3]~output, nop, 1
+instance = comp, \ULED[4]~output , ULED[4]~output, nop, 1
+instance = comp, \ULED[5]~output , ULED[5]~output, nop, 1
+instance = comp, \ULED[6]~output , ULED[6]~output, nop, 1
+instance = comp, \ULED[7]~output , ULED[7]~output, nop, 1
+instance = comp, \ULED[8]~output , ULED[8]~output, nop, 1
+instance = comp, \ULED[9]~output , ULED[9]~output, nop, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, nop, 1
