@@ -1,0 +1,49 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "ULED[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ULED[9]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
